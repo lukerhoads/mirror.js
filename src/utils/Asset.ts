@@ -29,3 +29,9 @@ export const UST: NativeToken = {
     denom: 'uusd'
   }
 };
+
+export const LUNA: NativeToken = {
+  native_token: {
+    denom: 'uluna'
+  }
+};
